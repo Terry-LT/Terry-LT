@@ -1,29 +1,119 @@
-<h1 align="center">Hi 👋, I'm Tamerlan</h1>
-<h3 align="center">A backend web developer</h3>
+<h1>Hello there👋</h1>
+<b>I am Terry-Lt and I am a backend web developer</b>
+<img src="https://media.tenor.com/k_FD58xnsicAAAAi/work-internet.gif" width="200"></img>
+<h2>Languages</h2>
+<div>
+<!--Java-->
+<a href="https://www.java.com/en/">
+<img width="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png"></img>
+</a>
+<!--C#-->
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+<img width="30" src="https://cdn.coursehunter.net/category/c-sharp-c.png"></img>
+</a>
+<!--Python-->
+<a href="https://www.python.org/">
+<img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></img>
+</a>
+<!--PHP-->
+<a href="https://www.php.net/">
+<img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png"></img>
+</a>
+<!--SQL-->
+<a href="https://en.wikipedia.org/wiki/SQL">
+<img width="50" src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?fit=600%2C315&ssl=1"></img>
+</a>
+<!--JS-->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"></img>
+</a>
+<!--Html-->
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img width="30" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></img>
+<!--CSS-->
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></img>
+</a>
+</div>
 
-<p align="left">
+<h2>Frameworks</h2>
+<div>
+<!--Spring boot-->
+<a href="https://spring.io/projects/spring-boot">
+<img width="28" src="https://images.ctfassets.net/gt6dp23g0g38/5DqlQtFKecFlkqQ8YGDT2p/aa945b648f44dd872e9a1b89f7d203ef/springboot.png"></img>
+</a>
+<!--Laravel-->
+<a href="https://laravel.com/">
+<img width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"></img>
+</a>
+<!--Vue 3-->
+<a href="https://vuejs.org/">
+<img width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"></img>
+</a>
+<!--Boostrap 5-->
+<a href="https://getbootstrap.com/">
+<img width="33" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png"></img>
+</a>
+</div>
 
-<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="terry-lt" />
-</p>
+<h2>Databases</h2>
 
-- 🌱 I’m currently learning **java and spring boot**
+<div>
+<!--Mysql-->
+<a href="https://www.mysql.com/">
+<img width="28" src="https://pipedream.com/s.v0/app_1YMhwo/logo/orig"></img>
+</a>
+<!--Postgresql-->
+<a href="https://www.postgresql.org/">
+<img width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"></img>
+</a>
+<!--Microsoft SQL Server-->
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads">
+<img width="28" src="https://www.edureka.co/blog/wp-content/uploads/2019/10/logo.png"></img>
+</a>
 
-- 💬 Ask me about **laravel, vue js, php, basic java/python**
+</div>
+<h2>Tools</h2>
 
-- 📫 How to reach me **tlatfulla@gmail.com**
+<div>
+<!--VS code-->
+<a href="https://code.visualstudio.com/">
+<img width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></img>
+</a>
+<!--Visual Studio-->
+<a href="https://visualstudio.microsoft.com/">
+<img width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png"></img>
+</a>
+<!--Postman-->
+<a href="https://www.postman.com/">
+<img width="28" src="https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj"></img>
+</a>
+<!--Git-->
+<a href="https://git-scm.com/">
+<img width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"></img>
+</a>
+<!--Wsl 2-->
+<a href="https://learn.microsoft.com/en-us/windows/wsl/">
+<img width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png"></img>
+</a>
+</div>
+<h2>My portfolio</h2>
 
-- ⚡ Fun fact **shutdown /s /f**
+<h3>Spring boot</h3>
+<ul>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tamerlan-latfullin-533307238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tamerlan-latfullin-533307238/" height="30" width="40" /></a>
-</p>
+<li>
+<a href="https://github.com/Terry-LT/Contact-Us-Spring-Boot-Vue">Contact Us Form</a>
+</li>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+</ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=terry-lt&show_icons=true&locale=en&layout=compact" alt="terry-lt" /></p>
+<h3>Laravel</h3>
+<ul>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=terry-lt&show_icons=true&locale=en" alt="terry-lt" /></p>
+<li>
+<a href="#">ClassyFindsStudentHub</a>
+</li>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=terry-lt&" alt="terry-lt" /></p>
+</ul>
+
