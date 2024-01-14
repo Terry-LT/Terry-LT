@@ -106,6 +106,10 @@
 <a href="https://github.com/Terry-LT/Contact-Us-Spring-Boot-Vue">Contact Us Form</a>
 </li>
 
+<li>
+<a href="https://github.com/Terry-LT/Employee-Management-System">Employee Management System</a>
+</li>
+
 </ul>
 
 <h3>Laravel</h3>
