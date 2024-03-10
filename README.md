@@ -23,14 +23,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"></img>
 </a>
-<!--Html-->
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img width="30" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></img>
-<!--CSS-->
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></img>
-</a>
-</div>
+
 
 <h2>Frameworks</h2>
 <div>
