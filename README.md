@@ -7,10 +7,6 @@
 <a href="https://www.java.com/en/">
 <img width="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png"></img>
 </a>
-<!--C#-->
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-<img width="30" src="https://cdn.coursehunter.net/category/c-sharp-c.png"></img>
-</a>
 <!--Python-->
 <a href="https://www.python.org/">
 <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></img>
