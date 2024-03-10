@@ -105,7 +105,7 @@
 <ul>
 
 <li>
-<a href="#">ClassyFindsStudentHub</a>
+<a href="https://github.com/Terry-LT/ClassyFindsStudentHub">ClassyFindsStudentHub</a>
 </li>
 
 </ul>
