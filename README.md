@@ -86,6 +86,15 @@ My name is Tamerlan Latfullin. I am a backend developer.
 
 </ul>
 
+### Personal projects
+<ul>
+
+<li>
+<a href="https://github.com/Terry-LT/MeteoMood">MeteoMood</a>
+</li>
+
+</ul>
+
 ### The good old days
 <ul>
 
