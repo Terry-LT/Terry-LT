@@ -92,6 +92,9 @@ My name is Tamerlan Latfullin. I am a backend developer.
 <li>
 <a href="https://github.com/Terry-LT/MeteoMood">MeteoMood</a>
 </li>
+<li>
+<a href="https://github.com/Terry-LT/Auto-Hotel-Email-Template">Auto-Hotel-Email-Template</a>
+</li>
 
 </ul>
 
