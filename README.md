@@ -33,9 +33,9 @@ My name is Tamerlan Latfullin. I am a backend developer.
 <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework">
 <img width="28" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg"></img>
 </a>
-<!--Vue 3-->
-<a href="https://vuejs.org/">
-<img width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"></img>
+<!--Spring boot-->
+<a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework">
+<img width="28" src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25070933/springboot-inner.svg"></img>
 </a>
 </div>
 
