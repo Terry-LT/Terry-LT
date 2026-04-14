@@ -34,7 +34,7 @@ My name is Tamerlan Latfullin. I am a backend developer.
 <img width="28" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg"></img>
 </a>
 <!--Spring boot-->
-<a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework">
+<a href="https://spring.io/projects/spring-boot">
 <img width="28" src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25070933/springboot-inner.svg"></img>
 </a>
 </div>
